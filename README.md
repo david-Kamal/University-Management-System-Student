@@ -51,6 +51,3 @@ A native Android application that provides university students with a digital pl
 
 ---
 
-## License
-
-[MIT](LICENSE)
