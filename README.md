@@ -15,7 +15,7 @@ A native Android application that provides university students with a digital pl
 - **Results:** 
   - View grades/results for completed subjects
 - **Chat & Communication:** 
-  - Real-time chat with friends and groups using Firebase
+  - Real-time chat with friends and groups using Firebase  (Included inside the Friendly App Repository)
 - **Session Management:** 
   - Persistent login and session storage
 
