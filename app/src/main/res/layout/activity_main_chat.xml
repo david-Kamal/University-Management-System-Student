@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context="com.reham.chat.MainChatActivity">
+
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbarLayout">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/main_tabs"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            >
+        </android.support.design.widget.TabLayout>
+
+
+        <fragment
+            android:name="com.reham.chat.GroupsFragment"
+            android:id="@+id/fragment_groups"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!--<include-->
+            <!--android:id="@+id/some_id_if_needed"-->
+            <!--layout="@layout/fragment_groups"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content" />-->
+
+    </android.support.design.widget.AppBarLayout>
+
+    <!--<android.support.v4.view.ViewPager-->
+        <!--android:id="@+id/main_tabs_pager"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/appbarLayout" />-->
+
+
+</RelativeLayout>
+
+
+
+

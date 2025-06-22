@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="red_500">#F44336</color>
+
+    <color name="overlay_dark_10">#1A000000</color>
+
+    <color name="colorText">#ffffff</color>
+    <color name="grey_5">#ffffff</color>
+    <color name="grey_10">#ffffff</color>
+    <color name="grey_20">#ffffff</color>
+    <color name="grey_40">#ffffff</color>
+    <color name="grey_60">#ffffff</color>
+    <color name="grey_80">#ffffff</color>
+    <color name="grey_90">#ffffff</color>
+
+    <!--<color name="grey_3">#f7f7f7</color>-->
+    <!--<color name="grey_5">#f2f2f2</color>-->
+    <!--<color name="grey_10">#e6e6e6</color>-->
+    <!--<color name="grey_20">#cccccc</color>-->
+    <!--<color name="grey_40">#999999</color>-->
+    <!--<color name="grey_60">#666666</color>-->
+    <!--<color name="grey_80">#37474F</color>-->
+    <!--<color name="grey_90">#263238</color>-->
+
+
+    <color name="blackk">#000000</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="light_blue_50">#E1F5FE</color>
+    <color name="light_blue_100">#B3E5FC</color>
+
+    <color name="light_blue_200">#81D4FA</color>
+
+
+
+    <color name="indigo_900">#1A237E</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+
+    <color name="cyan_50">#41980a</color>
+    <color name="cyan_100">#268b07</color>
+    <color name="cyan_200">#138510</color>
+    <color name="cyan_300">#117c13</color>
+    <color name="cyan_400">#136d15</color>
+    <color name="cyan_500">#186419</color>
+    <color name="cyan_600">#1A5C1B</color>
+    <color name="cyan_700">#214E22</color>
+    <color name="cyan_800">#1B3C1B</color>
+    <color name="cyan_900">#006064</color>
+    <color name="cyan_A100">#84FFFF</color>
+    <color name="cyan_A200">#18FFFF</color>
+    <color name="cyan_A400">#00E5FF</color>
+    <color name="cyan_A700">#00B8D4</color>
+    <color name="cyan_800_overlay">#E64C8F00</color>
+
+
+    <color name="green_50">#FF91F096</color>
+    <color name="green_100">#008577</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_300">#81C784</color>
+    <color name="green_400">#66BB6A</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_800">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+    <color name="green_A100">#B9F6CA</color>
+    <color name="green_A200">#69F0AE</color>
+    <color name="green_A400">#00E676</color>
+    <color name="green_A700">#00C853</color>
+
+    <color name="light_blue_600">#039BE5</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="colorPrimaryLight">#1E88E5</color>
+    <color name="grey_3">#ffffff</color>
+    <color name="ColorText">#fff</color>
+</resources>

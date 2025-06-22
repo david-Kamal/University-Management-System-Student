@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Modern Academy Student</string>
+
+    <string name="logo_image_desc">Awesome chat intro logo</string>
+    <string name="modern_academy">Modern Academy</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="registration">Registration</string>
+    <string name="register_your_subjects">Register your subjects</string>
+    <string name="time_table">Time Table</string>
+    <string name="check_your_time_table">Check your time table</string>
+    <string name="contact_the_supervisor_ofthe_subject">Contact the supervisor ofthe subject</string>
+    <string name="links">Links</string>
+    <string name="check_your_bank_activities">Check your bank activities</string>
+    <string name="about">About</string>
+    <string name="about_the_app">About the App</string>
+    <string name="about_text">The best android implementation of material UI components. This app implemented based on Google Design Guidelines.</string>
+    <string name="logout_successful">Logout Successful</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">logout</string>
+</resources>
